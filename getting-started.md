@@ -54,7 +54,7 @@ On the **Edit User Profile** page, just scroll down and initialize or update the
 
 Now that the VPN access has been established, you can log in.
 
-1. To log into the SSL VPN, visit [vpn.softlayer.com](https://vpn.softlayer.com/) and select any of the login points. You can use any VPN access point, and you are given the same access permissions to the private network in all the datacenters.
+1. To log into the SSL VPN, from Internet Explorer only, you can visit [vpn.softlayer.com](https://vpn.softlayer.com/) and select any of the login points. You can use any VPN access point, and you are given the same access permissions to the private network in all the datacenters.
 * If you have trouble logging into one location, try another location.
-* Alternatively, you can log in using a standalone client SSL VPN.
+* Alternatively, from all other browsers, you can log in using a standalone client SSL VPN.
 * You'll be able to use the standard OS utilities to log in to the PPTP VPN.
